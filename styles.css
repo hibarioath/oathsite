@@ -1,18 +1,31 @@
 body {
     /* width: 640px; */
     font-family: monospace;
-    background-color: #333333;
-    color: #e6e6e6;
+    background-color: #15141b;
+    color: #edecee;
    /* border: 1px solid black; */
+}/*
+nav {
+    background-color: #4d4d4d;
+}*/
+/*header {
+    background-color: #a277ff;
 }
-
+footer {
+    background-color: #15141b;
+} */
 p {
     font-size: 18px;
     /* padding: 10px;
     margin: 10px; */
    /* text-align: center; */
 }
-
+ol {
+    font-size: 18px;
+}
+ul {
+    font-size: 18px;
+}
 h1 {
     font-size: 36px;
     color: #ffff80;
@@ -26,16 +39,16 @@ h3 {
     font-size: 22px;
     color: #e6e6e6;
 }
-
 a {
-    color: #80dfff;
+    color: #ff6767;
+    font-size: 18px;
 }
 a:hover {
-    color: #b3ecff;
+    color: #ff6767;
 }
 a:visited { 
-    color: #ffb3c6
+    color: #ffca85
 }
 a:active {
-    color: #ffb3c6;
+    color: #ffca85;
 }
